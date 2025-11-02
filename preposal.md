@@ -2,6 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
+Creating a fun game like these:
 - Raft Wars
 - Flappy Bird
 - Racing Game
